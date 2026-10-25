@@ -1,3 +1,7 @@
+## AD homelab architecture overview
+
+<img width="888" height="946" alt="AD-homelab-img" src="https://github.com/user-attachments/assets/bb0121e1-2182-41b2-8834-314c1b169d87" />
+
 ## Build Active Directory Online use AWS 
 
 ### Create a Windows Server VM
